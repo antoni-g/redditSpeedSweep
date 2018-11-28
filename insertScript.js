@@ -1,6 +1,5 @@
 console.log('reddit speed sweep working');
-var d;
-var c;
+var d, c;
 
 $(document).ready(function() {
 	c = $('.commentarea :nth-child(4)');
